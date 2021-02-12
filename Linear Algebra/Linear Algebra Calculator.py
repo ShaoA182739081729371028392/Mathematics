@@ -4,12 +4,12 @@ import copy
 import random
 '''
 Valid Operations:
-Addition - Done
-Matrix Scalar Multiplication - Done
-Subtraction - Done
-MatMul - Done
-RREF - Done
-RREF With Augmented Matrix - Done
+Addition
+Matrix Scalar Multiplication 
+Subtraction 
+MatMul 
+RREF 
+RREF With Augmented Matrix
 Recursive Determinants
 '''
 class Matrix():
